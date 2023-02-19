@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-authentication",
+  "version": "1.0.0",
+  "description": "nodejs-authentication implements different authentication techniques such as JWT, session, SSO",
+  "main": "index.js",
+  "repository": "git@github.com:aashish-moktan/nodejs-authentication.git",
+  "author": "Aashish Moktan <aashiislama@gmail.com>",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
