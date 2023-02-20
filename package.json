@@ -6,8 +6,14 @@
   "repository": "git@github.com:aashish-moktan/nodejs-authentication.git",
   "author": "Aashish Moktan <aashiislama@gmail.com>",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start:dev": "nodemon ./server.js"
+  },
   "dependencies": {
+    "body-parser": "^1.20.1",
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
